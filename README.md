@@ -12,29 +12,6 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-
- 
-
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<p align="center">
-	<a href="https://github.com/mangusingh01"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mangu-singh/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/mangusingh__/"><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
-	<!--
-    <a href="https://twitter.com/mangusingh"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
-    -->
- </p>
-
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mangusingh01&label=Profile%20views&color=0e75b6&style=flat" alt="mangusingh01" />
-</p>
-
-
  ## About me
 
 <img align="right" alt="GIF" src="https://github.com/mangusingh01/mangusingh01/blob/main/images/coding1.gif?raw=true" width="400" />
@@ -114,3 +91,25 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangusingh01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="mangusingh01" /></p>
+<br/><br/><br/><br/><br/><br/><br/>
+
+
+</br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mangusingh01&label=Profile%20views&color=0e75b6&style=flat" alt="mangusingh01" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<p align="center">
+	<a href="https://github.com/mangusingh01"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/mangu-singh/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/mangusingh__/"><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
+	<!--
+    <a href="https://twitter.com/mangusingh"><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
+    -->
+ </p>
+
+
+
