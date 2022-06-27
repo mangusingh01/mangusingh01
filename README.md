@@ -60,19 +60,12 @@
 <a href="https://www.codechef.com/users/proton01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="proton01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mangusingh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mangusingh01" height="30" width="40" /></a>
 <!--
-<a href="https://auth.geeksforgeeks.org/user/palashbajpai45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palashbajpai45" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mangusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mangusingh" height="30" width="40" /></a>
 -->
 </p>
 
 
 <br/>
-
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -106,5 +99,15 @@
 
 <br/>
 
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mangusingh01&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaynarisetti&theme=shades-of-purple&hide_border=true"/>
+    </a>
+  </div>
+  </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangusingh01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="mangusingh01" /></p>
