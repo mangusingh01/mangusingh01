@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there 👋, I'm MANGU SINGH</h1>
 <h3 align="center">A passionate FullStack developer, python and C++ programmer.</h3>
-<h6 align="center">A motivated Electrical & Electronics Engineering under-graduate student from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
+<h6 align="center">A motivated Electrical & Electronics Engineering under-graduate student from National Institute of Technology Calicut, who loves doing programming and creating new stuffs.</h6>
 <h6 align="center">I use python and C++ 👨‍💻 </h6>
 
 
