@@ -35,7 +35,10 @@
 </p>
 
 
- 
+ ## About me
+
+<img align="right" alt="GIF" src="https://github.com/mangusingh01/mangusingh01/blob/main/images/coding1.gif?raw=true" width="400" />
+
 
   - 🔭 I’m currently working on Web Development
 
