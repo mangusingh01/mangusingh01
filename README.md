@@ -45,6 +45,9 @@
   - 💬 Ask me about **Python, Django, Django Rest Framework, C++, Flask**
 
   - 📫 How to reach me **itsmangusingh@gmail.com**
+ 
+  - 🔭 A day in my life may consist of : prepping web art, fixing some bugs, adding an API endpoint, building Smart Websites, database design, setting up a build or deployment plan, solving problems based on programming.
+
 
 
  
