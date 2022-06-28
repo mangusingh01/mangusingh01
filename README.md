@@ -2,7 +2,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mangusingh01" alt="ManguSingh" /> </p>
 <h1 align="center">Hi there 👋, I'm Mangu Singh</h1>
 <h3 align="center">A passionate FullStack developer, python and C++ programmer.</h3>
 <h6 align="center">A motivated Electrical & Electronics Engineering under-graduate student from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
@@ -97,9 +97,6 @@
 
 
 </br>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mangusingh01&label=Profile%20views&color=0e75b6&style=flat" alt="mangusingh01" />
-</p>
 
 <h3 align="center">Connect with me:</h3>
 
