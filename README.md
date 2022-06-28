@@ -87,7 +87,7 @@
 <a><h2>Stats</h2></a>
 
 <div>
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mangusingh01&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mangusingh01&theme=shades-of-purple&custom_title=Mangu+Singh's+GitHub+Stats&hide_border=true"/>
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaynarisetti&theme=shades-of-purple&hide_border=true"/>
 </div>
 </br>
