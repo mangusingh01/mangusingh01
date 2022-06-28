@@ -15,9 +15,9 @@
 <i>⚡ A Random dev joke for you!</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
-
+<p align="left">
  ## About me
-
+</p>
 <img align="right" alt="GIF" src="https://github.com/mangusingh01/mangusingh01/blob/main/images/coding1.gif?raw=true" width="400" />
 
 
@@ -37,7 +37,7 @@
 <br/><br/><br/>
 
 <h3 align="left">Coding profiles:</h3>
-<p>Yea, trying to improve them </p>
+<p align="left">Yea, trying to improve them </p>
 
 <p align="left">
  
