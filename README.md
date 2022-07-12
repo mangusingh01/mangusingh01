@@ -6,14 +6,6 @@
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mangusingh01" alt="ManguSingh" /> </p>
-<h1 align="center">Hi there 👋, I'm Mangu Singh</h1>
-<h3 align="center">A passionate FullStack developer, python and C++ programmer.</h3>
-<h6 align="center">A motivated Electrical & Electronics Engineering under-graduate student from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
-<h6 align="center"><b>Learning new things everyday!</b>👨‍💻 </h6>
-<div align="center"> 
-<p align="center">
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="75%"/>
-</p>
 <div align="center"> 
 <i>⚡ A Random dev joke for you!</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
