@@ -2,6 +2,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20MANGU%20SINGH&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mangusingh01" alt="ManguSingh" /> </p>
 <h1 align="center">Hi there 👋, I'm Mangu Singh</h1>
 <h3 align="center">A passionate FullStack developer, python and C++ programmer.</h3>
