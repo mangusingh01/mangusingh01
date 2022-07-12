@@ -2,10 +2,10 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mangusingh01" alt="ManguSingh" /> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20MANGU%20SINGH&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mangusingh01" alt="ManguSingh" /> </p>
 <div align="center"> 
 <i>⚡ A Random dev joke for you!</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
