@@ -25,7 +25,6 @@
  
   - 🔭 A day in my life may consist of : prepping web art, fixing some bugs, adding an API endpoint, building Smart Websites, database design, setting up a build or deployment plan, solving problems based on programming.
   
- - 💬 Self Taught Programmer.
 
  
  
